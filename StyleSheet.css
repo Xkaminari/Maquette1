@@ -82,7 +82,7 @@ button {
     padding: 15px 30px;
     border: none;
     font-size: medium;
-    margin-left: 650px;
+    float: right;
 }
 
 .What-we-do {
