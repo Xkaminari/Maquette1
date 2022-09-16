@@ -86,14 +86,19 @@ button {
 }
 
 .What-we-do {
-    padding-top: 15px;
+    padding: 15px 0 60px 0;
 }
 
 /* ----------------------------------FOOTER------------------------------ */
 
+footer {
+    text-align: center;
+}
+
 .foot-Img {
+    clear: both;
     width: 50px;
-    margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 .foot-text {
